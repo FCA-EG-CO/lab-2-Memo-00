@@ -3,7 +3,7 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
+- Nombre:MEMOOOOOOO
 - Matrícula:
 - Fecha:
 

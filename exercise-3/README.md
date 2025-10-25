@@ -15,15 +15,15 @@ Dígitos separados: 4 2 3 3 9
 
    | Operación  | Resultado |
    | ---------- | --------- |
-   | 24 / 5     |           |
-   | 18 % 3     |           |
-   | 13 % 9     |           |
-   | 13 / 2 % 2 |           |
+   | 24 / 5     |   4.8     |
+   | 18 % 3     |     0     |
+   | 13 % 9     |     4     |
+   | 13 / 2 % 2 |     0     |
 
-2. ¿Qué sucede cuando el usuario ingresa un número que tiene menos de cinco dígitos? ¿Por qué? ¿Cuál es la salida cuando se ingresa 1763?
+2. ¿Qué sucede cuando el usuario ingresa un número que tiene menos de cinco dígitos? ¿Por qué? ¿Cuál es la salida cuando se ingresa 1763? Cuando ingresa un numero que no es de 4 digitos toma el primer valor como 0 y si es de 3 digitos toma los 2 primeros como 0 y asi sucesivamente, si ingresamos 1763 la salida es 0 1 7 6 3 
 
 3. El programa que completó en este ejercicio de laboratorio ingresa un número con varios dígitos y separa los dígitos. Escribe un programa inverso, un programa que le pide al usuario tres números de un dígito y los combina en un solo número de tres dígitos.
 
 ## ✅ Resultado
-
-(Añadir captura de pantalla del resultado de la ejecución)
+![Primer Resultado](./image3.png)
+![Segundo Resultado](./image3.2.png)

@@ -1,3 +1,13 @@
+//Escriba un programa que lea tres números enteros del teclado e imprima la suma, el promedio, el producto, el más pequeño y el más grande de estos números. El diálogo de la pantalla debería aparecer de la siguiente manera:
+
+//```cmd
+//Ingrese tres enteros diferentes: 13 27 14
+//La suma is 54
+//El promedio es 18
+//El producto es 4914
+//El más pequeño es 13
+//El más grande es 27
+
 #include <iostream>
 using namespace std;
 
@@ -11,8 +21,12 @@ int main () {
     float producto;
     
   //Ingresar los numeros y suma
-    cout << "Ingrese tres numeros enteros diferentes: "; 
-    cin >> num1 >> num2 >> num3 ;
+    cout << "Ingrese el primer numero : " << endl; 
+    cin >> num1;
+    cout << "Ingrese el segundo numero(diferente al primero) : " << endl; 
+    cin >> num2;
+    cout << "Ingrese el tercer numero (diferente a los 2 anteriores) : " << endl; 
+    cin >> num3;
 
     sum = num1 + num2 + num3;
 

@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:MEMOOOOOOO
-- Matrícula:
-- Fecha:
+- Nombre:Guillermo Adrian Rodriguez Marcial
+- Matrícula:S25018132
+- Fecha:24 de Octubre del 2025
 
 ## 🎯 Objetivos
 

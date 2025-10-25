@@ -16,3 +16,5 @@ x  f(x)
 5  105
 ***********
 ```
+## ✅ Resultado
+![Resultado](./image5.png)

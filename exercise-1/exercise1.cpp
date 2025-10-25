@@ -2,7 +2,7 @@
 
 //```cmd
 //Ingrese tres enteros diferentes: 13 27 14
-//La suma is 54
+//La suma es 54
 //El promedio es 18
 //El producto es 4914
 //El más pequeño es 13
